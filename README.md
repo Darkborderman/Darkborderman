@@ -19,16 +19,11 @@
 
 You can found me on [![Steam Icon]][Steam URI] or on [![LinkedIn Icon]][LinkedIn URI].
 
-You can also [![Mail Icon]][Mail URI] me.
-
 [Steam Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/steam.svg
 [Steam URI]: https://steamcommunity.com/id/darkborderman/
 
 [LinkedIn Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/linkedin.svg
 [LinkedIn URI]: https://www.linkedin.com/in/darkborderman/
-
-[Mail Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/mail.svg
-[Mail URI]: mailto://reastw1234@gmail.com
 
 <!--
 Here are some ideas to get you started:
