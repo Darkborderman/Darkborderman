@@ -17,12 +17,7 @@
 
 <img src="https://img.shields.io/badge/Language-Python3.7-brightgreen"/> <img src="https://img.shields.io/badge/Framework-FastAPI-brightgreen"/> <img src="https://img.shields.io/badge/Cloud-AWS-brightgreen"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-brightgreen"/> <img src="https://img.shields.io/badge/Tools-Docker-brightgreen"/><img src="https://img.shields.io/badge/Tools-Kafka-brightgreen"/> <img src="https://img.shields.io/badge/Language-JavaScript-lightgrey"/> <img src="https://img.shields.io/badge/Framework-React-lightgrey"/>
 
-
-### Currently working on
-
-Backend engineer at Nightingale AI.
-
-Active on [![Steam Icon]][Steam URI], [![LinkedIn Icon]][LinkedIn URI].
+You can found me on [![Steam Icon]][Steam URI] or on [![LinkedIn Icon]][LinkedIn URI].
 
 You can also [![Mail Icon]][Mail URI] me.
 
