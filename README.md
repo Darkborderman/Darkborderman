@@ -22,14 +22,18 @@
 
 Backend engineer at Nightingale AI.
 
-### Contact
+Active on [![Steam Icon]][Steam URI], [![LinkedIn Icon]][LinkedIn URI].
 
-Email: reastw1234@gmail.com
-
-Active on [![Steam Icon]][Steam URL]
+You can also [![Mail Icon]][Mail URI] me.
 
 [Steam Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/steam.svg
-[Steam URL]: https://steamcommunity.com/id/darkborderman/
+[Steam URI]: https://steamcommunity.com/id/darkborderman/
+
+[LinkedIn Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/linkedin.svg
+[LinkedIn URI]: https://www.linkedin.com/in/darkborderman/
+
+[Mail Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/mail.svg
+[Mail URI]: mailto://reastw1234@gmail.com
 
 <!--
 Here are some ideas to get you started:
