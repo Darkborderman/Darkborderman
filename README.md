@@ -17,6 +17,10 @@
   />
 </a>
 
+## Badges
+
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/10534976" />
+
 ### Currently working on
 
 Backend engineer at Nightingale AI.
