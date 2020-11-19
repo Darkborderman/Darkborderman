@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<a href="">
+<a href="https://github.com/Darkborderman">
   <img 
     align="center"
     width="50%"
     src="https://github-readme-stats.vercel.app/api?username=darkborderman&include_all_commits=true"
   />
 </a>
-<a href="">
+<a href="https://github.com/Darkborderman">
   <img
     align="center"
     width="42%"
