@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Overall status
+
 <a href="https://github.com/Darkborderman">
   <img 
     align="center"
@@ -15,15 +17,25 @@
   />
 </a>
 
+### Currently working on
+
+Backend engineer at Nightingale AI.
+
+### Currently learning
+
+Python, databases
+
+### 📫 Contact
+
+Email: reastw1234@gmail.com
+
+
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
