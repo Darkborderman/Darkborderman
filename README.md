@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img 
     align="center"
     width="50%"
     src="https://github-readme-stats.vercel.app/api?username=darkborderman&include_all_commits=true"
   />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img
     align="center"
     width="42%"
