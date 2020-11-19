@@ -12,7 +12,6 @@
   width="42%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkborderman&exclude_repo=schoolWorks&layout=compact"
 />
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/10534976" />
 
 ## Tools & domains
 
