@@ -27,7 +27,6 @@ Backend engineer at Nightingale AI.
 
 Email: reastw1234@gmail.com
 
-
 <!--
 Here are some ideas to get you started:
 
