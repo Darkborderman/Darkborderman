@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=darkborderman)
+
 ## Overall status
 
 <img 
