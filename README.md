@@ -16,7 +16,11 @@ I'm Darkborderman, a backend engineer and a game modder.
 #### Inactive
 <img src="https://img.shields.io/badge/Language-JavaScript-lightgrey"/> <img src="https://img.shields.io/badge/Framework-React-lightgrey"/> <img src="https://img.shields.io/badge/Library-D3.js-lightgrey"/> <img src="https://img.shields.io/badge/Framework-PyQT5-lightgrey"/> <img src="https://img.shields.io/badge/Framework-FastAPI-lightgrey"/> <img src="https://img.shields.io/badge/Tools-Kafka-lightgrey"/>
 
-You can found me on [![Steam Icon]][Steam URI] or on [![LinkedIn Icon]][LinkedIn URI].
+## Contacts & others
+
+You can find me on [Steam][Steam URI] or on [LinkedIn][LinkedIn URI].
+
+* My [Gist](https://gist.github.com/Darkborderman) for code snippets.
 
 [Steam Icon]: https://github.com/Darkborderman/Darkborderman/blob/master/steam.svg
 [Steam URI]: https://steamcommunity.com/id/darkborderman/
