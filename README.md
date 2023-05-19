@@ -3,6 +3,10 @@
 
 I'm Darkborderman, a backend engineer and a game modder.
 
+Currently I'm working on **[@DarkbordermanModding](https://github.com/DarkbordermanModding)** and **[@DarkbordermanTemplate](https://github.com/DarkbordermanTemplate)**.
+
+----
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkborderman&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkborderman)
