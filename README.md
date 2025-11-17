@@ -19,10 +19,7 @@ Organizations I'm working on:
 ## Tools & domains
 
 ### Active
-<img src="https://img.shields.io/badge/Language-Python3.11-brightgreen"/><img src="https://img.shields.io/badge/Cloud-AWS-brightgreen"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-brightgreen"/> <img src="https://img.shields.io/badge/Tools-Docker-brightgreen"/>  <img src="https://img.shields.io/badge/Tools-Terraform-brightgreen"/> <img src="https://img.shields.io/badge/Framework-Django-brightgreen"/>
-
-### Inactive
-<img src="https://img.shields.io/badge/Language-JavaScript-lightgrey"/> <img src="https://img.shields.io/badge/Framework-React-lightgrey"/> <img src="https://img.shields.io/badge/Library-D3.js-lightgrey"/> <img src="https://img.shields.io/badge/Framework-PyQT5-lightgrey"/> <img src="https://img.shields.io/badge/Framework-FastAPI-lightgrey"/> <img src="https://img.shields.io/badge/Tools-Kafka-lightgrey"/>
+<img src="https://img.shields.io/badge/Language-Python3.11-brightgreen"/> <img src="https://img.shields.io/badge/Cloud-AWS-brightgreen"/> <img src="https://img.shields.io/badge/Tools-PostgreSQL-brightgreen"/> <img src="https://img.shields.io/badge/Tools-Docker-brightgreen"/> <img src="https://img.shields.io/badge/Tools-Terraform-brightgreen"/> <img src="https://img.shields.io/badge/Framework-Django-brightgreen"/>
 
 ## Contacts & others
 
